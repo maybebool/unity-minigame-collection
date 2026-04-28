@@ -5,7 +5,7 @@
 [![Games](https://img.shields.io/badge/Games-13_Implementations-FF6F61?style=flat-square)](https://github.com/maybebool/UnityMiniGames)
 [![Level](https://img.shields.io/badge/Level-Beginner_▸_Intermediate-77B829?style=flat-square)](https://github.com/maybebool/UnityMiniGames)
 
-13 classic mini games implemented in Unity from scratch — designed as a hands-on reference for game development students learning core mechanics, algorithms, and data structures.
+13 classic mini games I developed in Unity from scratch, designed as a hands-on reference for game development students learning core mechanics, algorithms, and data structures.
 
 ## Objective
 
