@@ -118,7 +118,7 @@ git clone https://github.com/maybebool/UnityMiniGames.git
 
 | Category | Technology |
 |:---|:---|
-| Engine | Unity 2021.3+ |
+| Engine | Unity 2022.3+ |
 | Language | C# (MonoBehaviour, Coroutines) |
 | Rendering | Unity 2D, Sprite Renderer, Canvas UI |
 | Input | Unity Input System (keyboard + mouse) |
