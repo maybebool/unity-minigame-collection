@@ -1,6 +1,6 @@
 # Unity Mini Games
 
-[![Unity](https://img.shields.io/badge/Unity-2021.3+-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)
+[![Unity](https://img.shields.io/badge/Unity-2022+-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)
 [![C#](https://img.shields.io/badge/C%23-MonoBehaviour-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Games](https://img.shields.io/badge/Games-13_Implementations-FF6F61?style=flat-square)](https://github.com/maybebool/UnityMiniGames)
 [![Level](https://img.shields.io/badge/Level-Beginner_▸_Intermediate-77B829?style=flat-square)](https://github.com/maybebool/UnityMiniGames)
